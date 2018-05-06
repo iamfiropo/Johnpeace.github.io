@@ -34,5 +34,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-markup: * Email: princeolatjohnjoe@yahoo.com
-        * Phone no: +2348086180775
+* Email: princeolatjohnjoe@yahoo.com
+* Phone no: +2348086180775
