@@ -1,4 +1,4 @@
 ### Support or Contact
 
-* Email: princeolatjohnjoe@yahoo.com
+* Email: iamfiropo@gmail.com
 * Phone no: +2348086180775
